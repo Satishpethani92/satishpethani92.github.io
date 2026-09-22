@@ -1,0 +1,51 @@
+export const skillGroups = [
+  {
+    id: 'frontend',
+    label: 'Frontend',
+    icon: '🖥️',
+    color: '#c9a86c',
+    skills: ['React.js', 'TypeScript', 'JavaScript', 'Vue.js', 'Next.js', 'HTML5', 'CSS3'],
+  },
+  {
+    id: 'backend',
+    label: 'Backend',
+    icon: '⚙️',
+    color: '#7a92b8',
+    skills: ['Node.js', 'Express.js', 'GraphQL', 'REST APIs', 'MERN Stack'],
+  },
+  {
+    id: 'mobile',
+    label: 'Mobile',
+    icon: '📱',
+    color: '#8fa8a0',
+    skills: ['Flutter', 'Dart', 'React Native', 'iOS', 'Android'],
+  },
+  {
+    id: 'shopify',
+    label: 'Shopify & E-Commerce',
+    icon: '🛍️',
+    color: '#9aaf78',
+    skills: ['Shopify Liquid', 'Shopify Hydrogen', 'Shopify API', 'Polaris', 'Private Apps', 'Public Apps', 'Checkout UI'],
+  },
+  {
+    id: 'ai',
+    label: 'Agentic AI',
+    icon: '🤖',
+    color: '#8b9dc9',
+    skills: ['Claude AI', 'Gemini API', 'LangChain', 'Agentic Workflows', 'Prompt Engineering', 'AI Automation'],
+  },
+  {
+    id: 'data',
+    label: 'Databases & Tools',
+    icon: '🗄️',
+    color: '#6b9b8a',
+    skills: ['MongoDB', 'Git', 'GitHub', 'Vite', 'Figma'],
+  },
+  {
+    id: 'blockchain',
+    label: 'Blockchain / Web3',
+    icon: '⛓️',
+    color: '#b8956a',
+    skills: ['Web3.js', 'XDC Network', 'Smart Contracts', 'Tokenization', 'DeFi', 'NFT'],
+  },
+];

@@ -1,0 +1,62 @@
+export const workHistory = [
+  {
+    id: 1,
+    role: 'Mobile Tech Head',
+    company: 'Cirkle Studio Pvt. Ltd.',
+    type: 'Full-time',
+    period: 'Jun 2019 – Present',
+    duration: '7+ years',
+    location: 'Greater Surat Area',
+    current: true,
+    color: '#c9a86c',
+    icon: '🚀',
+    description:
+      'Leading mobile and full-stack development of blockchain-powered products. Building from day 0 a variety of blockchain mobile products leveraging cutting-edge technologies including Web3, DeFi, tokenization interfaces, and cross-platform mobile applications for global clients.',
+    highlights: [
+      'Led development of 10+ blockchain and Web3 projects on the XDC Network',
+      'Built and delivered Flutter & React Native mobile apps on App Store and Google Play',
+      'Architected full-stack solutions using React.js, Node.js, TypeScript, and Vue.js',
+      'Managed client relationships and delivery for international projects',
+    ],
+  },
+  {
+    id: 2,
+    role: 'Team Leader',
+    company: 'Ebizz Infotech',
+    type: 'Full-time',
+    period: 'Mar 2016 – Jun 2019',
+    duration: '3 yrs 4 mos',
+    location: 'Surat, India',
+    current: false,
+    color: '#7a92b8',
+    icon: '👨‍💻',
+    description:
+      'Led a development team delivering web and mobile applications for clients across diverse industries. Responsible for technical planning, code reviews, mentoring junior developers, and ensuring on-time project delivery.',
+    highlights: [
+      'Managed a team of frontend and backend developers',
+      'Delivered e-commerce and enterprise web applications',
+      'Conducted code reviews and established development best practices',
+      'Collaborated directly with clients on requirements and feedback',
+    ],
+  },
+  {
+    id: 3,
+    role: 'Flex & Flash Developer',
+    company: 'vthink solution',
+    type: 'Full-time',
+    period: 'May 2012 – Mar 2016',
+    duration: '3 yrs 11 mos',
+    location: 'Greater Surat Area',
+    current: false,
+    color: '#8fa8a0',
+    icon: '⚡',
+    description:
+      'Developed interactive web applications, animations, and multimedia experiences using Flex and Flash technologies. Worked on front-end interfaces and rich internet applications for clients in the early phase of my career.',
+    highlights: [
+      'Built interactive Flash and Flex-based web applications',
+      'Created animations and multimedia UI components',
+      'Developed early-stage frontend solutions for SME clients',
+      'Gained strong fundamentals in programming, UI, and client communication',
+    ],
+  },
+];
