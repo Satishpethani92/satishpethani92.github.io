@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://satishpethani.github.io/
+Sitemap: https://satishpethani92.github.io/satishpethani.github.io/

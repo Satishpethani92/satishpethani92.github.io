@@ -11,7 +11,7 @@ export const profile = {
     country: 'India',
     display: 'Surat, India',
   },
-  siteUrl: 'https://satishpethani.github.io',
+  siteUrl: 'https://satishpethani92.github.io/satishpethani.github.io',
   email: 'satyapethani@gmail.com',
   phone: '+919913709585',
   avatar: 'https://avatars.githubusercontent.com/u/5456770?v=4',
